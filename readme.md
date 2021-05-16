@@ -36,3 +36,11 @@ To breed two seed flowers:
 ```zsh
 ./crossover.sh --dna flowers/rose.json --breed red white
 ```
+
+# Note to Biologists
+
+I'm not a Biologist, I don't even know all the different
+technical terms you use. So if there's something wrong
+let me know by firing an issue and I'll fix it.
+
+Please don't roast me, I tried my best :)
