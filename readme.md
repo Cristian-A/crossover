@@ -4,7 +4,7 @@
 Program for genetics calculations of traits.
 You can specify a DNA type and experiment with breeding.
 
-Mainy used to breed **Animal Crossing: New Horizons**'
+Mainly used to breed **Animal Crossing: New Horizons**'
 flowers and calculate possibilities of outcomes.
 
 ## Usage:
