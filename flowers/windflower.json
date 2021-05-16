@@ -1,0 +1,29 @@
+{
+	"species": "Windflower",
+	"genes": "ROw",
+	"aliases": {
+		"white": "rrooWw",
+		"red": "RRooWW",
+		"orange": "rrOOWW"
+	},
+	"highlight": {
+		"#FDFDFD": [ "rrooW*" ],
+		"#E50002": [
+			"RrooW*",
+			"RR*oW*"
+		],
+		"#ED81D5": [
+			"RrOo**",
+			"RROOW*"
+		],
+		"#FF5F00": [
+			"rrOoW*",
+			"*rOO**"
+		],
+		"#7A0BA8": [ "RR**ww" ],
+		"#0037FF": [
+			"rr*oww",
+			"Rrooww"
+		]
+	}
+}

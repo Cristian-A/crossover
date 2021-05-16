@@ -1,0 +1,33 @@
+{
+	"species": "Hyacinth",
+	"genes": "RYw",
+	"aliases": {
+		"white": "rryyWw",
+		"red": "RRyyWw",
+		"yellow": "rrYYWW"
+	},
+	"highlight": {
+		"#FDFDFD": [
+			"rryyW*",
+			"rrYyww",
+			"Rryyww"
+		],
+		"#4A7DF5": [
+			"rryyww",
+			"RRYyWW"
+		],
+		"#F94C3B": [
+			"RryyWW",
+			"RRyy**",
+			"RRYy*w"
+		],
+		"#FFFD70": [
+			"rrYyW*",
+			"rrYY**",
+			"RrY**w"
+		],
+		"#DF9DD4": [ "RryyWw" ],
+		"#EFA659": [ "RrY*WW" ],
+		"#9C39DC": [ "RRYY**" ]
+	}
+}

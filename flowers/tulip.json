@@ -1,0 +1,29 @@
+{
+	"species": "Tulip",
+	"genes": "RYS",
+	"aliases": {
+		"white": "rryySs",
+		"red": "RRyySs",
+		"yellow": "rrYYss"
+	},
+	"highlight": {
+		"#FDFDFD": [
+			"rryy**",
+			"rrYySS",
+			"RryySS"
+		],
+		"#E50002": [
+			"Rryyss",
+			"RR*yS*"
+		],
+		"#ED81D5": [ "RryySs" ],
+		"#FAEF00": [
+			"rrYy*s",
+			"rrYY**",
+			"RrY*S*"
+		],
+		"#FF5F00": [ "RrY*ss" ],
+		"#111111": [ "RR*yss" ],
+		"#7A0BA8": [ "RRYY**" ]
+	}
+}

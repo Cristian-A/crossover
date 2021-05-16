@@ -1,0 +1,36 @@
+{
+	"species": "Lily",
+	"genes": "RYS",
+	"aliases": {
+		"white": "rryySS",
+		"red": "RRyySs",
+		"yellow": "rrYYss"
+	},
+	"highlight": {
+		"#FDFDFD": [
+			"rryy**",
+			"rrYyS*",
+			"rrYYSS",
+			"RryySS",
+			"RRYYSS"
+		],
+		"#E50002": [
+			"Rryyss",
+			"RR*ySs"
+		],
+		"#ED81D5": [
+			"RryySs",
+			"RR*ySS"
+		],
+		"#FAEF00": [
+			"rrYyss",
+			"rrYY*s",
+			"RrY*S*"
+		],
+		"#FF5F00": [
+			"RrY*ss",
+			"RRYY*s"
+		],
+		"#111111": [ "RR*yss" ]
+	}
+}

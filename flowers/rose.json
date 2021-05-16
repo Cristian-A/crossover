@@ -1,0 +1,58 @@
+{
+	"species": "Rose",
+	"genes": "RYwS",
+	"aliases": {
+		"white": "rryyWwss",
+		"red": "RRyyWWSs",
+		"yellow": "rrYYWWss"
+	},
+	"highlight": {
+		"#FDFDFD": [
+			"rryyW***",
+			"rrYyWw**",
+			"rrYYww**",
+			"RryyW*SS",
+			"R*YyWwSS",
+			"R*YYwwSS"
+		],
+		"#E50002": [
+			"Rryy**ss",
+			"RrYy*wss",
+			"RrYYwwss",
+			"RRyy**Ss",
+			"RRYyWw*s",
+			"RRY*wwSs"
+		],
+		"#ED81D5": [
+			"RryyWWSs",
+			"Rryy*wSs",
+			"RrYy*wSs",
+			"RrYYwwSs",
+			"RRyy**SS"
+		],
+		"#FAEF00": [
+			"rrYyWW**",
+			"rrYYW***",
+			"RrY*WWS*",
+			"RrYYWwS*",
+			"RRY*WWSS",
+			"RRYYWwSS"
+		],
+		"#0037FF": [ "RRYYwwss" ],
+		"#FF5F00": [
+			"RrY*WWss",
+			"R*YYWwss",
+			"RRY*WW*s",
+			"RRYYWwSs"
+		],
+		"#930F56": [
+			"rr*yww**",
+			"Rr*ywwSS",
+			"RRYywwSS"
+		],
+		"#111111": [
+			"RRyy**ss",
+			"RRYywwss"
+		]
+	}
+}

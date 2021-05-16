@@ -1,0 +1,29 @@
+{
+	"species": "Pansy",
+	"genes": "RYw",
+	"aliases": {
+		"white": "rryyWw",
+		"red": "RRyyWW",
+		"yellow": "rrYYWW"
+	},
+	"highlight": {
+		"#FDFDFD": [ "rryyW*" ],
+		"#0037FF": [
+			"rr*yww",
+			"Rryyww"
+		],
+		"#E50002": [
+			"RryyW*",
+			"RR*yW*"
+		],
+		"#FAEF00": [
+			"rrYyW*",
+			"*rYY**"
+		],
+		"#FF5F00": [
+			"RrYy**",
+			"RRYYW*"
+		],
+		"#7A0BA8": [ "RR**ww" ]
+	}
+}

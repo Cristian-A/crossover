@@ -1,0 +1,32 @@
+{
+	"species": "Cosmo",
+	"genes": "RYS",
+	"aliases": {
+		"white": "rryySs",
+		"red": "RRyyss",
+		"yellow": "rrYYSs"
+	},
+	"highlight": {
+		"#FDFDFD": [
+			"rryy**",
+			"rrYySS"
+		],
+		"#E50002": [
+			"RRyy**",
+			"RRY*SS"
+		],
+		"#ED81D5": [
+			"Rryy**",
+			"RrYySS"
+		],
+		"#FAEF00": [
+			"rrYy*s",
+			"rrYY**"
+		],
+		"#FF5F00": [
+			"R*Yy*s",
+			"RrYY**"
+		],
+		"#111111": [ "RRYY*s" ]
+	}
+}

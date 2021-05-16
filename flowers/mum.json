@@ -1,0 +1,35 @@
+{
+	"species": "Mum",
+	"genes": "RYw",
+	"aliases": {
+		"white": "rryyWw",
+		"red": "RRyyWW",
+		"yellow": "rrYYWW"
+	},
+	"highlight": {
+		"#FDFDFD": [
+			"rryyW*",
+			"rrYyww"
+		],
+		"#E50002": [
+			"RrYyWw",
+			"RRyy**",
+			"RRY*ww"
+		],
+		"#ED81D5": [
+			"Rryy**",
+			"RrYyww"
+		],
+		"#FAEF00": [
+			"rrYyW*",
+			"rrYY**",
+			"RrYyWW"
+		],
+		"#0EED00": [ "RRYYW*" ],
+		"#7A0BA8": [
+			"rryyww",
+			"RrYY**",
+			"RRYyW*"
+		]
+	}
+}
