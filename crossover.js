@@ -17,7 +17,7 @@ function help() {
 	console.log('    | aliases: dictionary -> { alias: dna }');
 	console.log('    | highlight: { color: [ pattern ] }');
 	console.log('  --list, -l: lists every individual possible');
-	console.log('  --highlight, h \'Xx\': highlights the individual');
+	console.log('  --highlight, -H \'Xx\': highlights the individual');
 	console.log('  --breed, -b \'Xx\' \'XX\': breeds the individuals\n');
 }
 
@@ -88,7 +88,7 @@ const bc = '\x1b[48;5;235m';
 		optional('--list', '-l'),
 		parameter(1, '--dna', '-d'),
 		parameter(2, '--breed', '-b'),
-		parameter(1, '--highlight', '-h'),
+		parameter(1, '--highlight', '-H'),
 	]);
 
 	parse(args, Deno.args, true, (name, n) => {
